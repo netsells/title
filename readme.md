@@ -1,6 +1,6 @@
 # Title Class
 ## How to install
-There are four simple steps to install Sentry into Laravel 4:
+There are four simple steps to install Title into Laravel 4:
 
 1. Add `"netsells/title": "*"` to the `require` attribute of your `composer.json` *(requires you run `php composer.phar update` from the command line)*
 2. Add `Netsells\Title\TitleServiceProvider` to the list of service providers in `app/config/app.php`
