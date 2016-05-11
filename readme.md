@@ -33,3 +33,4 @@ Useful for setting segments like "Editing Craig - Users" where "Users" can be se
 
 ## Advanced
 If you want to change the layout of the generated title, you can do so with the `Title::layout("%s [%n]")` method, where `%s` is the segments and `%n` is the sitename.
+
