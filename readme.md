@@ -1,4 +1,7 @@
 # Title Class
+
+**This package is abandoned and no longer maintained. We suggest you use the [https://github.com/radiula/title](radiula/title) package instead.**
+
 ## How to install
 There are four simple steps to install Title into Laravel 4:
 
