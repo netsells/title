@@ -1,5 +1,5 @@
 {
-  "name": "radiula/title",
+  "name": "netsells/title",
   "description": "A simple package for building and displaying page titles.",
   "keywords": [
     "php",
@@ -11,6 +11,10 @@
     {
       "name": "Craig Sansam",
       "email": "craig@radiula.com"
+    },
+    {
+      "name": "Sam Jordan",
+      "email": "sam@netsells.co.uk"
     }
   ],
   "license": "MIT",
