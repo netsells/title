@@ -15,6 +15,10 @@
     {
       "name": "Sam Jordan",
       "email": "sam@netsells.co.uk"
+    },
+    {
+      "name": "Jakub Gawron",
+      "email": "jakub.gawron@netsells.co.uk"
     }
   ],
   "license": "MIT",
